@@ -1,7 +1,7 @@
 
 view: 1TG1Y61WNC_vw_dim_user_custom_field_base {
 sql_table_name: [RPT].[vwDimUserCustomField_1TG1Y61WNC] ;;
-
+label: "coolCompany-1TG1Y61WNCCustom Fields"
 dimension: cluster {
     sql: ${TABLE}.[Cluster] ;;
     type: string

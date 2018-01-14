@@ -1,7 +1,7 @@
 
 view: 1ULR2ASSBW_vw_dim_user_custom_field_base {
 sql_table_name: [RPT].[vwDimUserCustomField_1ULR2ASSBW] ;;
-
+label: "coolCompany-1ULR2ASSBWCustom Fields"
 dimension: comp_frequency {
     sql: ${TABLE}.[Comp Frequency] ;;
     type: string

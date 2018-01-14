@@ -1,7 +1,7 @@
 
 view: 1R81NHTY3W_vw_dim_user_custom_field_base {
 sql_table_name: [RPT].[vwDimUserCustomField_1R81NHTY3W] ;;
-
+label: "coolCompany-1R81NHTY3WCustom Fields"
 dimension: company_id {
     sql: ${TABLE}.[CompanyId] ;;
     type: string

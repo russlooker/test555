@@ -1,7 +1,7 @@
 
 view: 1UW7HWJYAU_vw_dim_user_custom_field_base {
 sql_table_name: [RPT].[vwDimUserCustomField_1UW7HWJYAU] ;;
-
+label: "coolCompany-1UW7HWJYAUCustom Fields"
 dimension: 1st_level_sr_staffvp {
     sql: ${TABLE}.[1st Level Sr Staff (VP)] ;;
     type: string

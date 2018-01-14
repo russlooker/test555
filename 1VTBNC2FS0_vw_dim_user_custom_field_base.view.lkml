@@ -1,7 +1,7 @@
 
 view: 1VTBNC2FS0_vw_dim_user_custom_field_base {
 sql_table_name: [RPT].[vwDimUserCustomField_1VTBNC2FS0] ;;
-
+label: "coolCompany-1VTBNC2FS0Custom Fields"
 dimension: address_country {
     sql: ${TABLE}.[Address Country] ;;
     type: string

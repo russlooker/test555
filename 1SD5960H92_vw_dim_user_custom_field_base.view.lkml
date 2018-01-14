@@ -1,7 +1,7 @@
 
 view: 1SD5960H92_vw_dim_user_custom_field_base {
 sql_table_name: [RPT].[vwDimUserCustomField_1SD5960H92] ;;
-
+label: "coolCompany-1SD5960H92Custom Fields"
 dimension: b_id {
     sql: ${TABLE}.[B_ID] ;;
     type: string

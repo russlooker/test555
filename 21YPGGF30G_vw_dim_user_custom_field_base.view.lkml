@@ -1,7 +1,7 @@
 
 view: 21YPGGF30G_vw_dim_user_custom_field_base {
 sql_table_name: [RPT].[vwDimUserCustomField_21YPGGF30G] ;;
-
+label: "coolCompany-21YPGGF30GCustom Fields"
 dimension: budgetid {
     sql: ${TABLE}.[Budget ID] ;;
     type: string

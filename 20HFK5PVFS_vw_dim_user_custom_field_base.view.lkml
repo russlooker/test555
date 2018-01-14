@@ -1,7 +1,7 @@
 
 view: 20HFK5PVFS_vw_dim_user_custom_field_base {
 sql_table_name: [RPT].[vwDimUserCustomField_20HFK5PVFS] ;;
-
+label: "coolCompany-20HFK5PVFSCustom Fields"
 dimension: charitable_giving {
     sql: ${TABLE}.[Charitable Giving] ;;
     type: string

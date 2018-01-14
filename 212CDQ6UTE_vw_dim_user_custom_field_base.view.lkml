@@ -1,7 +1,7 @@
 
 view: 212CDQ6UTE_vw_dim_user_custom_field_base {
 sql_table_name: [RPT].[vwDimUserCustomField_212CDQ6UTE] ;;
-
+label: "coolCompany-212CDQ6UTECustom Fields"
 dimension: community {
     sql: ${TABLE}.[Community] ;;
     type: string

@@ -1,7 +1,7 @@
 
 view: 2FKC0XN310_vw_dim_user_custom_field_base {
 sql_table_name: [RPT].[vwDimUserCustomField_2FKC0XN310] ;;
-
+label: "coolCompany-2FKC0XN310Custom Fields"
 dimension: benevity_teams {
     sql: ${TABLE}.[Benevity Teams] ;;
     type: string

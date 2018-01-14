@@ -1,7 +1,7 @@
 
 view: 1YWBECSX4U_vw_dim_user_custom_field_base {
 sql_table_name: [RPT].[vwDimUserCustomField_1YWBECSX4U] ;;
-
+label: "coolCompany-1YWBECSX4UCustom Fields"
 dimension: budget {
     sql: ${TABLE}.[Budget] ;;
     type: string

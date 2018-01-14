@@ -1,7 +1,7 @@
 
 view: 1T9DKCM52Q_vw_dim_user_custom_field_base {
 sql_table_name: [RPT].[vwDimUserCustomField_1T9DKCM52Q] ;;
-
+label: "coolCompany-1T9DKCM52QCustom Fields"
 dimension: business_unitemt {
     sql: ${TABLE}.[Business Unit/EMT] ;;
     type: string

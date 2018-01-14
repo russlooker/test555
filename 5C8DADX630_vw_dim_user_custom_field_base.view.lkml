@@ -1,7 +1,7 @@
 
 view: 5C8DADX630_vw_dim_user_custom_field_base {
 sql_table_name: [RPT].[vwDimUserCustomField_5C8DADX630] ;;
-
+label: "coolCompany-5C8DADX630Custom Fields"
 dimension: adp_no {
     sql: ${TABLE}.[ADP No] ;;
     type: string

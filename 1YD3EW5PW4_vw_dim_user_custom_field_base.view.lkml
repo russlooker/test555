@@ -1,7 +1,7 @@
 
 view: 1YD3EW5PW4_vw_dim_user_custom_field_base {
 sql_table_name: [RPT].[vwDimUserCustomField_1YD3EW5PW4] ;;
-
+label: "coolCompany-1YD3EW5PW4Custom Fields"
 dimension: cause_filter {
     sql: ${TABLE}.[Cause Filter] ;;
     type: string

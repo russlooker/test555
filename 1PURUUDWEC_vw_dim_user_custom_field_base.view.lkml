@@ -1,7 +1,7 @@
 
 view: 1PURUUDWEC_vw_dim_user_custom_field_base {
 sql_table_name: [RPT].[vwDimUserCustomField_1PURUUDWEC] ;;
-
+label: "coolCompany-1PURUUDWECCustom Fields"
 dimension: btag {
     sql: ${TABLE}.[btag] ;;
     type: string

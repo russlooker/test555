@@ -1,7 +1,7 @@
 
 view: 1RGHB40PKN_vw_dim_user_custom_field_base {
 sql_table_name: [RPT].[vwDimUserCustomField_1RGHB40PKN] ;;
-
+label: "coolCompany-1RGHB40PKNCustom Fields"
 dimension: bus_unit {
     sql: ${TABLE}.[BusUnit] ;;
     type: string

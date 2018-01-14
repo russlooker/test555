@@ -1,7 +1,7 @@
 
 view: 224R4XAH04_vw_dim_user_custom_field_base {
 sql_table_name: [RPT].[vwDimUserCustomField_224R4XAH04] ;;
-
+label: "coolCompany-224R4XAH04Custom Fields"
 dimension: bid {
     sql: ${TABLE}.[BID] ;;
     type: string

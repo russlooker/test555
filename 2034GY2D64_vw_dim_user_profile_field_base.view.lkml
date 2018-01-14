@@ -1,7 +1,7 @@
 
 view: 2034GY2D64_vw_dim_user_profile_field_base {
 sql_table_name: [RPT].[vwDimUserProfileField_2034GY2D64] ;;
-
+label: "coolCompany-2034GY2D64Custom Fields"
 dimension: company_id {
     sql: ${TABLE}.[CompanyId] ;;
     type: string

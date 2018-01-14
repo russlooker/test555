@@ -1,7 +1,7 @@
 
 view: 1S6ULAJJ3A_vw_dim_user_custom_field_base {
 sql_table_name: [RPT].[vwDimUserCustomField_1S6ULAJJ3A] ;;
-
+label: "coolCompany-1S6ULAJJ3ACustom Fields"
 dimension: citizenship {
     sql: ${TABLE}.[Citizenship] ;;
     type: string

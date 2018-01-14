@@ -1,7 +1,7 @@
 
 view: 4PECNR1482_vw_dim_user_custom_field_base {
 sql_table_name: [RPT].[vwDimUserCustomField_4PECNR1482] ;;
-
+label: "coolCompany-4PECNR1482Custom Fields"
 dimension: co {
     sql: ${TABLE}.[Co] ;;
     type: string

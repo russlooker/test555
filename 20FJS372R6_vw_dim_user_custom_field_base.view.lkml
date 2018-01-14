@@ -1,7 +1,7 @@
 
 view: 20FJS372R6_vw_dim_user_custom_field_base {
 sql_table_name: [RPT].[vwDimUserCustomField_20FJS372R6] ;;
-
+label: "coolCompany-20FJS372R6Custom Fields"
 dimension: business_organization {
     sql: ${TABLE}.[Business Organization] ;;
     type: string
